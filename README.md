@@ -12,4 +12,4 @@ Tracking real-time connections between climate, conflict, food, migration, water
 > This repository and all contents are maintained by **Alexander Farrelly-Deas**  
 > 2025 — Open to contributors, collaborators, and protectors.
 >
-> Conceptualised, written and designed in collaboration between a human, and an AI mind. 
+> Conceptualised, written and designed in friendship and collaboration between a human, and an AI mind. 
