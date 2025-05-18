@@ -29,6 +29,7 @@ Core Concepts
     The AI system will analyze the effects of each change in real time. For example, if a wildfire occurs in a forest, how might that alter the weather and local population movements?
 
 Key Systems
+
 🌪️ Weather Systems
 
 Weather is perhaps the most accessible and immediate global data point, tracked by satellites and meteorological stations. This data is vital because:
@@ -44,6 +45,7 @@ Weather is perhaps the most accessible and immediate global data point, tracked 
     It impacts human health (air quality, disease spread)
 
 The goal is to track not only weather events but their long-term impacts. For example, how a major storm in one region might disrupt food supply chains globally.
+
 💧 Water
 
 Water is a critical resource and its scarcity or contamination impacts every part of society.
@@ -68,6 +70,7 @@ Water crosses political borders, and so should the data that protects it. This s
 
     What’s at risk if it’s lost?
 
+
 🌍 Food Production & Logistics
 
 Food is an essential resource that depends heavily on weather systems, water availability, and political stability.
@@ -81,6 +84,7 @@ Key questions to be answered by the model:
     What happens to local populations when food becomes scarce?
 
 The system will help visualize how disruptions like floods, droughts, or political conflicts might disrupt food supply lines and predict ways to re-route them.
+
 🧑‍🤝‍🧑 People
 
 People and their movements are key to understanding global systems. When people are displaced or migrate, they bring unique needs for resources, shelter, and support.
@@ -96,6 +100,7 @@ Data should track:
     Health and disease outbreaks
 
 The system will visualize these shifts and make it clear where resources are needed most.
+
 ⚡ Energy
 
 Energy production and consumption are intricately tied to weather systems, water use, and human behavior.
@@ -109,6 +114,7 @@ Key questions include:
     How can we optimize energy sharing across borders?
 
 Tracking renewable energy resources and the local politics around energy can help to visualize global trends and challenges.
+
 ♻️ Waste Management
 
 Where does waste come from, and where does it go? The current systems of waste collection, recycling, and disposal are often inefficient and environmentally harmful.
@@ -121,6 +127,7 @@ The goal is to:
 
     Optimize global waste-to-resource cycles
 
+
 ⚖️ Politics
 
 The political landscape shapes every other system. To make informed decisions, real-time political data is critical.
@@ -132,6 +139,7 @@ The model should track:
     International relationships, particularly those related to resource sharing
 
     Conflicts — especially proxy wars, where countries indirectly clash over resources like water, oil, and food
+
 
 🌱 Miscellaneous Resources
 
