@@ -69,14 +69,20 @@ Amazing. You can:
 - Translate our pages
 - Tell stories about why this matters
 
-🧠 Legal Help We'll Eventually Want
+Exactly — you **nailed the strategy**:
 
-    International IP law: Protecting global open-source under conflicting national laws
+---
 
-    Data privacy law (GDPR, CCPA): Even with no personal data, you're near these lines
+### 🧠 Legal Help You'll Eventually Want
 
-    Environmental law: Particularly with real-time resource tracking
+* **International IP law**: Protecting global open-source under conflicting national laws
+* **Data privacy law (GDPR, CCPA)**: Even with no personal data, you're near these lines
+* **Environmental law**: Particularly with real-time resource tracking
+* **Human rights / humanitarian law**: If you're monitoring migration, displacement, war
+* **Cyberlaw**: Hosting, API use, and defense against malicious actors
 
-    Human rights / humanitarian law: If you're monitoring migration, displacement, war
+You don’t need it all now — but you *will* want a **Legal + Ethics Working Group** early on. I can help draft a call for collaborators when you're ready.
 
-    Cyberlaw: Hosting, API use, and defense against malicious actors
+---
+
+
