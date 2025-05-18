@@ -1,8 +1,8 @@
-Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
+Creative Commons Attribution - Non-Commercial 4.0 International (CC BY-NC 4.0)
 
 Copyright © 2025 Alexander Farrelly-Deas
 
-This work is licensed under the Creative Commons Attribution-NonCommercial 4.0 International License.
+This work is licensed under the Creative Commons Attribution - Non-Commercial 4.0 International License.
 To view a copy of this license, visit https://creativecommons.org/licenses/by-nc/4.0/
 
 You are free to:
